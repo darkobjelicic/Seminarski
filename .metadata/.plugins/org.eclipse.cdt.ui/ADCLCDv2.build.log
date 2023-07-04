@@ -1,0 +1,10 @@
+14:59:05 **** Incremental Build of configuration Debug for project ADCLCDv2 ****
+make -j8 all 
+arm-none-eabi-size   ADCLCDv2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12516	    120	   1640	  14276	   37c4	ADCLCDv2.elf
+Finished building: default.size.stdout
+ 
+
+14:59:05 Build Finished. 0 errors, 0 warnings. (took 231ms)
+

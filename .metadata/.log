@@ -1,0 +1,63 @@
+!SESSION 2023-02-08 17:13:17.999 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-02-08 17:13:48.624
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-02-08 17:13:48.840
+!MESSAGE Log4j initialized with config file C:\Users\Lenovo E590\Desktop\Mikroprocesorski\Seminarski\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-02-08 17:13:54.980
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-08 17:16:24.258
+!MESSAGE Indexed 'RadarSenzor STM32' (17 sources, 78 headers) in 5.09 sec: 3,631 declarations; 13,033 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-08 17:18:45.245
+!MESSAGE Indexed 'Prekid7Seg' (17 sources, 104 headers) in 2.86 sec: 6,992 declarations; 24,670 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0.59%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-08 17:29:59.904
+!MESSAGE Indexed 'Potenciometar' (19 sources, 107 headers) in 4.26 sec: 7,481 declarations; 30,636 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0.49%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-13 13:56:23.261
+!MESSAGE Indexed 'LCDprimer2' (21 sources, 99 headers) in 1.79 sec: 6,962 declarations; 25,077 references; 2 unresolved inclusions; 36 syntax errors; 186 unresolved names (0.58%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-02-13 14:26:27.894
+!MESSAGE Indexed 'ADCLCDv2' (21 sources, 99 headers) in 1.28 sec: 6,970 declarations; 25,218 references; 2 unresolved inclusions; 36 syntax errors; 186 unresolved names (0.57%)
+!SESSION 2023-04-21 11:44:31.518 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-21 11:44:47.509
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-04-21 11:45:00.381
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-04-21 11:45:00.571
+!MESSAGE Log4j initialized with config file C:\Users\Lenovo E590\Desktop\Mikroprocesorski\Seminarski\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-04-21 11:45:18.310
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-07-01 13:42:55.413 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-07-01 13:43:23.082
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-07-01 13:43:23.197
+!MESSAGE Log4j initialized with config file C:\Users\Lenovo E590\Desktop\Mikroprocesorski\Seminarski\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-07-01 13:43:39.439
+!MESSAGE Started RMI Server, listening on port 41337

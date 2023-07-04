@@ -1,0 +1,10 @@
+14:59:06 **** Incremental Build of configuration Debug for project Potenciometar ****
+make -j8 all 
+arm-none-eabi-size   Potenciometar.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6136	     20	   1620	   7776	   1e60	Potenciometar.elf
+Finished building: default.size.stdout
+ 
+
+14:59:06 Build Finished. 0 errors, 0 warnings. (took 316ms)
+

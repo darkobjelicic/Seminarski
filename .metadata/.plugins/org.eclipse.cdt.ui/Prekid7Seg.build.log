@@ -1,0 +1,10 @@
+14:59:06 **** Incremental Build of configuration Debug for project Prekid7Seg ****
+make -j8 all 
+arm-none-eabi-size   Prekid7Seg.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4736	     60	   1572	   6368	   18e0	Prekid7Seg.elf
+Finished building: default.size.stdout
+ 
+
+14:59:06 Build Finished. 0 errors, 0 warnings. (took 236ms)
+
